@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="kafka">
+    <output-path>H:/idea/jar</output-path>
+    <root id="archive" name="spark.jar">
+      <element id="module-output" name="spark" />
+    </root>
+  </artifact>
+</component>
